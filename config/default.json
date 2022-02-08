@@ -1,0 +1,11 @@
+{
+    "privatekey": "",
+    "logConfig": {
+        "logFolder": ".//Logs//",
+        "logFile": "%DATE%-movielog.log"
+      },
+     "deleteConfig": {
+         "deleteFolder": ".//DeleteLogs//",
+         "deleteFile": "moviedeletelog.log"
+     }
+}
